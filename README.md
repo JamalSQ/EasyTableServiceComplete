@@ -1,6 +1,3 @@
-I can't access or view private information on GitHub repositories directly. However, I can provide you with a general template for a README file that you can customize for your food restaurant website project:
-
-```markdown
 # Food Restaurant Website
 
 This is a food restaurant website built with Express.js and EJS.
@@ -10,6 +7,7 @@ This is a food restaurant website built with Express.js and EJS.
 * **Browse by Category:** Users can browse food items categorized into three sections.
 * **Add to Basket:** Users can add items to their basket by clicking the "Add" button for each item.
 * **Dynamic Rendering:** The website uses Express.js controllers to fetch data from arrays and render it dynamically using EJS templates.
+* **QR Code generation:** There is also a QR code on every table where a user can scan and go to the menu to place an order online.
 
 ## Technologies Used
 
@@ -20,8 +18,6 @@ This is a food restaurant website built with Express.js and EJS.
 ## Installation
 
 1. Clone this repository:
-
- 
 
 2. Install dependencies:
 
